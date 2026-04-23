@@ -18,8 +18,8 @@ This project implements a multi-stage machine learning pipeline to quantify and 
 ## Results Analysis
 
 ### CNN Performance
-*   **Overall Avg Loss:** `0.0211`
-*   **Overall Std Loss:** `0.0067`
+*   |**Overall Avg Loss:** | `0.0211` |
+*   |**Overall Std Loss:** | `0.0067` |
 
 The extremely low average loss indicates that the Autoencoder has successfully learned the template of a healthy cell. The low standard deviation (`0.0067`) suggests that the model is highly consistent, making it a sensitive and reliable instrument for detecting morphological changes induced by different drug treatments.
 
